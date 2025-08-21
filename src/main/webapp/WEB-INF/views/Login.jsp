@@ -54,7 +54,7 @@
             Login
         </div>
         <div class="card-body">
-            <form action="login" method="post">
+            <form action="authenticate" method="post">
                 <div class="form-group">
                     <label for="email">Email address</label>
                     <input type="email" class="form-control" id="email" name="email" placeholder="Enter email" required>

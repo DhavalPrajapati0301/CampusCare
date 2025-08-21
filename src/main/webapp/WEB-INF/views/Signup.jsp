@@ -75,7 +75,7 @@
                     <input type="password" class="form-control" id="password" name="password" required>
                 </div>
 
-                <div class="form-group">
+<!--                 <div class="form-group">
                     <label for="role">Role</label>
                     <select class="form-control" id="role" name="role" required>
                         <option value="">-- Select Role --</option>
@@ -83,8 +83,8 @@
                         <option value="student">Student</option>
                     </select>
                 </div>
-
-       <!--         <div class="form-group">
+ -->
+   <!--         <div class="form-group">
                     <label for="createdAt">Created At</label>
                     <input type="datetime-local" class="form-control" id="createdAt" name="createdAt" required>
                 </div>
